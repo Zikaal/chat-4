@@ -63,7 +63,7 @@ streamlit run app.py
 ```
 
 ## Screenshots
-![Main Interface](screenshots/#1.jpg)
+![Chat History](screenshots/#1.jpg)
 ![Main Interface](screenshots/#2.jpg)
 ![Main Interface](screenshots/#3.jpg)
 ![Main Interface](screenshots/#4.jpg)
