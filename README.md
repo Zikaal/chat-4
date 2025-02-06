@@ -66,7 +66,7 @@ streamlit run app.py
 ![Chat History](screenshots/#1.jpg)
 ![Multi-Query & RAG Fusion](screenshots/#2.jpg)
 ![Constitution](screenshots/#3.jpg)
-![Main Interface](screenshots/#4.jpg)
+![Upload file](screenshots/#4.jpg)
 ![Main Interface](screenshots/#5.jpg)
 
 ## File Upload Feature
