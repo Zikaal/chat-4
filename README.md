@@ -65,7 +65,7 @@ streamlit run app.py
 ## Screenshots
 ![Chat History](screenshots/#1.jpg)
 ![Multi-Query & RAG Fusion](screenshots/#2.jpg)
-![Main Interface](screenshots/#3.jpg)
+![Constitution](screenshots/#3.jpg)
 ![Main Interface](screenshots/#4.jpg)
 ![Main Interface](screenshots/#5.jpg)
 
