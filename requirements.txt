@@ -1,0 +1,10 @@
+streamlit
+pymongo
+numpy
+requests
+chardet
+beautifulsoup4
+sentence-transformers
+langchain
+langchain-openai
+langchain-ollama
