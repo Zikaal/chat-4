@@ -63,9 +63,11 @@ streamlit run app.py
 ```
 
 ## Screenshots
-![Main Interface](screenshots/main_interface.png)
-![File Upload](screenshots/file_upload.png)
-![Chat Example](screenshots/chat_example.png)
+![Main Interface](screenshots/#1.jpg)
+![Main Interface](screenshots/#2.jpg)
+![Main Interface](screenshots/#3.jpg)
+![Main Interface](screenshots/#4.jpg)
+![Main Interface](screenshots/#5.jpg)
 
 ## File Upload Feature
 - Supports `.txt` file uploads.
