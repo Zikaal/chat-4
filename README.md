@@ -67,7 +67,7 @@ streamlit run app.py
 ![Multi-Query & RAG Fusion](screenshots/#2.jpg)
 ![Constitution](screenshots/#3.jpg)
 ![Upload file](screenshots/#4.jpg)
-![Main Interface](screenshots/#5.jpg)
+![Add document](screenshots/#5.jpg)
 
 ## File Upload Feature
 - Supports `.txt` file uploads.
